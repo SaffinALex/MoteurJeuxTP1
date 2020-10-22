@@ -105,7 +105,7 @@ private:
     QVector3D rotationAxis;
     float positionX = 0;
     float positionY = 0;
-    float positionZ = 1;
+    float positionZ = -5;
     float lookX = 1;
     float lookY = 0;
     float lookZ = 0;
